@@ -1,12 +1,12 @@
-# secret_num=6
-# guess_name=int(input("enter the number : "))
-# if guess_name>secret_num:
-#     print(" number is too high")
-# elif guess_name<secret_num:
-#     print("number is too less")
+secret_num=6
+guess_name=int(input("enter the number : "))
+if guess_name>secret_num:
+    print(" number is too high")
+elif guess_name<secret_num:
+    print("number is too less")
     
-# else:
-#     print("you won")
+else:
+    print("you won")
     
     
     
