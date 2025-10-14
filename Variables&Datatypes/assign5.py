@@ -1,0 +1,5 @@
+# name=input("enter your first name: ")
+# name_2=input("enter your last name: ")
+# # print(name.upper(),name_2.upper())
+# print(name[0:3].upper(),name_2[0:4].upper())
+# # print(name.upper(),name_2.upper())

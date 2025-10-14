@@ -1,0 +1,5 @@
+name=input("enter your name:")
+age=input("enter your age:")
+city=input("enter your city:")
+fav_colour=input("enter your fav_colour:")
+print(f"name: {name}, age: {age}, city: {city}, fav_colour: {fav_colour} ")
